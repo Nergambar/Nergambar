@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nergambar
-- 👀 I’m interested in ...
+- 👀 I’m interested in python and C at the moment
 - 🌱 I’m currently learning C at the 42florence institute.
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/them
 - ⚡ Fun fact: ...
 
 <!---
